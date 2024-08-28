@@ -7,5 +7,7 @@ public class NewSimple {
         System.out.println("end");
         System.out.println("endagain");
         System.out.println("enter_2 changes");
+        System.out.println("enter_4 changes");
+        System.out.println("enter_4 changes 2");
     }
 }
