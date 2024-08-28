@@ -8,5 +8,6 @@ public class NewSimple {
         System.out.println("endagain");
         System.out.println("Let's make changes");
         System.out.println("enter_2 changes");
+        System.out.println("Let's make changes");
     }
 }
