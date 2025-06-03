@@ -5,4 +5,8 @@ public class SecondBranchChange {
     public SecondBranchChange() {
 
     }
+
+    private void print() {
+
+    }
 }
