@@ -14,6 +14,7 @@ public class NewSimple {
         System.out.println("enter_5 changes 2 ");
         System.out.println("enter_6 changes");
         System.out.println("enter_6 changes 2");
+        System.out.println("enter_6 changes 3");
 
 
     }
